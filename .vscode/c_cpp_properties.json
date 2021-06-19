@@ -1,0 +1,23 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${default}",
+                "vendor/glm/include",
+                "vendor/glad/include",
+                "vendor/glfw/include",
+                "vendor/spdlog/include",
+                "project/HyJson/include",
+                "project/HyEngine/include"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "windowsSdkVersion": "10.0.19041.0"
+        }
+    ],
+    "version": 4
+}
