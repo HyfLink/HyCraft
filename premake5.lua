@@ -1,5 +1,5 @@
 inc = {}
-inc["glm"] = "vendor/glm/include"
+inc["glm"] = "vendor/glm"
 inc["glad"] = "vendor/glad/include"
 inc["glfw"] = "vendor/glfw/include"
 inc["spdlog"] = "vendor/spdlog/include"
